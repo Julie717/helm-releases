@@ -3,7 +3,17 @@ entries:
   gift-certificates:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-01T13:20:00.306400106-05:00"
+    created: "2025-03-01T14:02:52.982123499-05:00"
+    description: A Helm chart for Gift certificates app
+    digest: 4b5006777255209d0eb9851469064e9b2eb4ad01d0be44eeb1f616b508ff2432
+    name: gift-certificates
+    type: application
+    urls:
+    - https://julie717.github.io/helm-releases/releases/gift-certificates-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-01T14:02:52.981489254-05:00"
     description: A Helm chart for Gift certificates app
     digest: 255615e5e069062145e7a736544b66233ae79639409eefac53793cf8e0c1817e
     name: gift-certificates
@@ -13,7 +23,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-01T13:20:00.30587199-05:00"
+    created: "2025-03-01T14:02:52.981106956-05:00"
     description: A Helm chart for Gift certificates app
     digest: a6d0b26d728319636033c15adf8f3b780e6e81c46074c13bdcc96a383b73b953
     name: gift-certificates
@@ -23,7 +33,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-01T13:20:00.305378603-05:00"
+    created: "2025-03-01T14:02:52.98068289-05:00"
     description: A Helm chart for Gift certificates app
     digest: 3c815c863442b112a6b80a7f8eeea20faa5196402db47edc0d6ef8a5ac05ff39
     name: gift-certificates
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://julie717.github.io/helm-releases/releases/gift-certificates-0.0.1.tgz
     version: 0.0.1
-generated: "2025-03-01T13:20:00.302647457-05:00"
+generated: "2025-03-01T14:02:52.979877986-05:00"
