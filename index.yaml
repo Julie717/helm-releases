@@ -3,9 +3,9 @@ entries:
   gift-certificates:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-03-02T15:28:21.634753059-05:00"
+    created: "2025-03-02T16:16:20.555920738-05:00"
     description: A Helm chart for Gift certificates app
-    digest: e9393028a9d04e0fed6fb32ecd610c8e0a74d7c529ac99c40938b3d26eb1397d
+    digest: 269edaeb64e651ec8d9f2212e28ee5f2f1e61aedfad5497abb0d5daa46d8ce9d
     name: gift-certificates
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-02T15:28:21.633930545-05:00"
+    created: "2025-03-02T16:16:20.55540056-05:00"
     description: A Helm chart for Gift certificates app
     digest: 4b5006777255209d0eb9851469064e9b2eb4ad01d0be44eeb1f616b508ff2432
     name: gift-certificates
@@ -23,7 +23,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-02T15:28:21.633537119-05:00"
+    created: "2025-03-02T16:16:20.555007929-05:00"
     description: A Helm chart for Gift certificates app
     digest: 255615e5e069062145e7a736544b66233ae79639409eefac53793cf8e0c1817e
     name: gift-certificates
@@ -33,7 +33,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-02T15:28:21.63315112-05:00"
+    created: "2025-03-02T16:16:20.554613738-05:00"
     description: A Helm chart for Gift certificates app
     digest: a6d0b26d728319636033c15adf8f3b780e6e81c46074c13bdcc96a383b73b953
     name: gift-certificates
@@ -43,7 +43,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-02T15:28:21.632699666-05:00"
+    created: "2025-03-02T16:16:20.554167559-05:00"
     description: A Helm chart for Gift certificates app
     digest: 3c815c863442b112a6b80a7f8eeea20faa5196402db47edc0d6ef8a5ac05ff39
     name: gift-certificates
@@ -51,4 +51,4 @@ entries:
     urls:
     - https://julie717.github.io/helm-releases/releases/gift-certificates-0.0.1.tgz
     version: 0.0.1
-generated: "2025-03-02T15:28:21.631943931-05:00"
+generated: "2025-03-02T16:16:20.55334403-05:00"
