@@ -3,9 +3,9 @@ entries:
   gift-certificates:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-03-03T16:31:08.944379072-05:00"
+    created: "2025-03-03T16:52:18.200618873-05:00"
     description: A Helm chart for Gift certificates app
-    digest: c1dedc7858dfc027a1b815a2cfb8976214a975a1f84f8bcacb3fc935bf965a8e
+    digest: 556d54a2ed407b68bec193e48ecb37fa162b5ef2fb2eb6e42a4cc5cc6351f901
     name: gift-certificates
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-03T16:31:08.940800111-05:00"
+    created: "2025-03-03T16:52:18.200113721-05:00"
     description: A Helm chart for Gift certificates app
     digest: 4b5006777255209d0eb9851469064e9b2eb4ad01d0be44eeb1f616b508ff2432
     name: gift-certificates
@@ -23,7 +23,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-03T16:31:08.939607788-05:00"
+    created: "2025-03-03T16:52:18.19969874-05:00"
     description: A Helm chart for Gift certificates app
     digest: 255615e5e069062145e7a736544b66233ae79639409eefac53793cf8e0c1817e
     name: gift-certificates
@@ -33,7 +33,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-03T16:31:08.938148025-05:00"
+    created: "2025-03-03T16:52:18.199290284-05:00"
     description: A Helm chart for Gift certificates app
     digest: a6d0b26d728319636033c15adf8f3b780e6e81c46074c13bdcc96a383b73b953
     name: gift-certificates
@@ -43,7 +43,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-03-03T16:31:08.9374099-05:00"
+    created: "2025-03-03T16:52:18.198731254-05:00"
     description: A Helm chart for Gift certificates app
     digest: 3c815c863442b112a6b80a7f8eeea20faa5196402db47edc0d6ef8a5ac05ff39
     name: gift-certificates
@@ -51,4 +51,4 @@ entries:
     urls:
     - https://julie717.github.io/helm-releases/releases/gift-certificates-0.0.1.tgz
     version: 0.0.1
-generated: "2025-03-03T16:31:08.935443527-05:00"
+generated: "2025-03-03T16:52:18.196909524-05:00"
